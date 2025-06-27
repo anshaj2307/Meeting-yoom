@@ -26,8 +26,8 @@
 - [Getting Started](#toolbox-getting-started)
 - [Screenshots](#camera-screenshots)
 - [Tech Stack](#gear-tech-stack)
-- [Stats](#wrench-stats)
-- [Contribute](#raised_hands-contribute)
+<!-- - [Stats](#wrench-stats) -->
+<!-- - [Contribute](#raised_hands-contribute)
 - [Acknowledgements](#gem-acknowledgements)
 - [Buy Me a Coffee](#coffee-buy-me-a-coffee)
 - [Follow Me](#rocket-follow-me)
@@ -35,7 +35,7 @@
 - [Deploy on Netlify](#page_with_curl-deploy-on-netlify)
 - [Give A Star](#star-give-a-star)
 - [Star History](#star2-star-history)
-- [Give A Star](#star-give-a-star)
+- [Give A Star](#star-give-a-star) -->
 
 </details>
 
@@ -208,7 +208,7 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
 [![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel")
 
-## :wrench: Stats
+<!-- ## :wrench: Stats -->
 <!-- 
 [![Stats for Yoom](/.github/images/stats.svg "Stats for Yoom")](https://pagespeed.web.dev/analysis?url=https://clone-yoom.netlify.app "Stats for Yoom") -->
 
