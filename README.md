@@ -1,17 +1,17 @@
 <a name="readme-top"></a>
 
-# Yoom - Modern Next.js powered Video calling app
+# Meeting-Yoom - Meeting app with realtime video, audio, and chat features.
 
-![Yoom - Modern Next.js powered Video calling app](/.github/images/img_main.png "Yoom - Modern Next.js powered Video calling app")
+![Meeting-Yoom - Meeting app with realtime video, audio, and chat features.](/.github/images/home.png "Meeting-Yoom - Meeting app with realtime video, audio, and chat features.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
+<!-- [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/commits/main "Maintenance")
 [![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/branches "GitHub branches")
 [![Github commits](https://flat.badgen.net/github/commits/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/commits "Github commits")
 [![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/issues "GitHub issues")
 [![GitHub pull reUpcoming Meetings](https://flat.badgen.net/github/prs/sanidhyy/zoom-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/zoom-clone/pulls "GitHub pull reUpcoming Meetings")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2076d95e-3495-4baf-854d-f59283f80b27/deploy-status)](https://clone-yoom.netlify.app/ "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2076d95e-3495-4baf-854d-f59283f80b27/deploy-status)](https://clone-yoom.netlify.app/ "Netlify Status") -->
 
 <!-- Table of Contents -->
 <details>
@@ -44,7 +44,7 @@
 Here is the folder structure of this app.
 
 ```bash
-zoom-clone/
+Meeting-yoom/
   |- actions/
     |- stream.actions.ts
   |- app/
@@ -196,13 +196,13 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3000
 
 ## :camera: Screenshots
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Modern UI/UX](/.github/images/home.png "Modern UI/UX")
 
-![Upcoming Meetings](/.github/images/img2.png "Upcoming Meetings")
+![Upcoming Meetings](/.github/images/record.png "Upcoming Meetings")
 
-![Live Audio/Video Call](/.github/images/img3.png "Live Audio/Video Call")
+![Live Audio/Video Call](/.github/images/meeting.png "Live Audio/Video Call")
 
-![View Recordings](/.github/images/img4.png "View Recordings")
+![View Recordings](/.github/images/recording.png "View Recordings")
 
 ## :gear: Tech Stack
 

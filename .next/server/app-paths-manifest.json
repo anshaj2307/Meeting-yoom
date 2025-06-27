@@ -1,3 +1,8 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js"
+  "/icon2.png/route": "app/icon2.png/route.js",
+  "/apple-icon.png/route": "app/apple-icon.png/route.js",
+  "/(root)/meeting/[id]/page": "app/(root)/meeting/[id]/page.js",
+  "/(root)/(home)/page": "app/(root)/(home)/page.js",
+  "/(root)/(home)/previous/page": "app/(root)/(home)/previous/page.js",
+  "/(root)/(home)/recordings/page": "app/(root)/(home)/recordings/page.js"
 }
