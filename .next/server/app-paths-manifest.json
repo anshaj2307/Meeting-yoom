@@ -1,4 +1,4 @@
 {
-  "/(root)/(home)/recordings/page": "app/(root)/(home)/recordings/page.js",
+  "/icon2.png/route": "app/icon2.png/route.js",
   "/(root)/(home)/page": "app/(root)/(home)/page.js"
 }
