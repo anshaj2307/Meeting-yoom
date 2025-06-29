@@ -89,9 +89,9 @@
   },
   "devDependencies": {
     "@types/node": "^22",
-    "@types/react": "^18",
+    "@types/react": "^18.3.23",
     "@types/react-datepicker": "^7.0.0",
-    "@types/react-dom": "^19",
+    "@types/react-dom": "^18.3.7",
     "eslint": "^9",
     "eslint-config-next": "15.0.3",
     "eslint-plugin-unused-imports": "^4.1.4",
